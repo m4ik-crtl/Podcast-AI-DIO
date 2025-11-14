@@ -58,7 +58,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA para cad
     <img 
       align=left 
       margin=10 
-      width=80 
+      width=40 
       src="https://www.gstatic.com/images/branding/product/1x/gemini_48dp.png"
       alt="Logo do Gemini"
     />
@@ -78,12 +78,20 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA para cad
 <br/><br/>
 <p>
 
----
-<p align="left">
-<img 
-    src="./src/foto.jpg"
-    width="150"
-    alt="foto-maikon"
-/>
+## 👌 Expert
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=50 
+      src="./src/foto.jpg"
+      alt="foto-maikon"
+      style="border-radius: 50%;"
+    />
+    <p>&nbsp;&nbsp;&nbsp;⌨️ Feito com 💜 por <a href="https://www.linkedin.com/in/maikon-silva-457b98181/">Maikon Silva</a> & <a href="https://gemini.google.com/">Gemini</a><br>
+    &nbsp;<br>
+    </p>
 </p>
-⌨️ Feito com 💜 por [Maikon Silva](https://www.linkedin.com/in/maikon-silva-457b98181/) & [Gemini](https://gemini.google.com/)
+<br/><br/>
+<p>
