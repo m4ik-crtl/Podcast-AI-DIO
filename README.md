@@ -49,7 +49,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA para cad
 ## 📚 Arquivos do Projeto
 
 - **[Roteiro](./input/roteiro.txt)**: O roteiro completo gerado pelo Gemini.
-- **[Áudio Final](./output/Front-End%20Masters%20EP%201.mp4)**: O podcast editado e finalizado (MP3).
+- **[Áudio Final](./output/Front-End%20Masters%20EP%201.mp4)**: O podcast editado e finalizado.
 - **[Capa](./src/capa_ep.png)**: A arte da capa gerada pelo Gemini.
 
 ## 🤖 Roteirista e Artista (IA)
